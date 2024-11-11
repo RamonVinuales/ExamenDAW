@@ -39,5 +39,6 @@ Posteriormente le hare un a2ensite al nuevo conf para que funcione correctamente
 
 Finalmente modificare /etc/hosts para añadir el nuevo dominio a la lista (Es la 5a linea, "127.0.0.1 daw.ejercicio3.com"):
 ![hosts](https://github.com/user-attachments/assets/9c73ad6a-c3e6-4194-8b82-c32da54a31b7)
+![ejercicioDaw](https://github.com/user-attachments/assets/a9dc0ddf-648f-4a26-bc48-2368b18c6501)
 
 Por ultimo se lo he enseñado al profesor y me ha dado el visto bueno.
