@@ -1,11 +1,31 @@
 # Memoria de examen DAW
-# Ejercicio 1
+
+## Indice
+[Introduccion](#introduccion)
+[Resumen](#resumen)
+[Realizacion de las actividades](#realizacion-de-las-actividades)
+[Valoracion de los resultados](#valoracion-de-los-resultados)
+[Conclusión](#conclusion)
+
+
+## Introduccion
+En esta memoria esta redactada la realización del examen de la primera avaluación de la asignatura DAW.
+Se ha realizado mediante consola de comando de Ubuntu en el centro de estudios Diactica.
+Utilizaremos Apache ssh y la consola de comandos para realizar este examen.
+
+## Resumen
+Primeramente Realizare el examen tipo test.
+Posteriormente creare un archivo mediante ssh y linea de comando.
+Finalmente creare una pagina web local con su host virtual.
+
+## Realización de las actividades
+### Ejercicio 1
 
 He realizado el examen tipo test:
 ![ExamenDAW](https://github.com/user-attachments/assets/9ed87783-7b77-442c-8cf3-589fbf020023)
 
 
-## Ejercicio 2
+### Ejercicio 2
 
 Primeramente he accedido a una maquina remota mediante ssh :
 
@@ -21,7 +41,7 @@ Conteniendo, el resultado de whoami y el comando necesario para saber quién est
 
 ![RamonVinualesTxt](https://github.com/user-attachments/assets/ad76f39a-614f-4310-bac7-bb5d819afb78)
 
-## Ejercicio 3
+### Ejercicio 3
 
 Primero creo una pagina web sencilla en la ubicacion /var/www/miWeb de mi maquina, llamada index.html:
 ![CrearIndexHtml](https://github.com/user-attachments/assets/634a0c68-d6d0-442e-8ecb-891d1f06b545)
@@ -44,3 +64,12 @@ Finalmente modificare /etc/hosts para añadir el nuevo dominio a la lista (Es la
 ![ejercicioDaw](https://github.com/user-attachments/assets/a9dc0ddf-648f-4a26-bc48-2368b18c6501)
 
 Por ultimo se lo he enseñado al profesor y me ha dado el visto bueno.
+
+## Valoración de los resultados
+
+He conseguido realizar correctamente el examen tal y como se pedia en el enunciado.
+
+## Conclusion
+
+Tras realizar el examen y ver que las cosas que pedia el enunciado me han salido correctamente puedo suponer que sacare buena nota en este examen
+
