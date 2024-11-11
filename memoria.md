@@ -15,7 +15,7 @@ Posteriormente he creado en el escritorio un archivo txt con mi nombre y apellid
 
 ![CrearEnEscritorio](https://github.com/user-attachments/assets/e03c107a-e3ab-4a39-bbcf-74fdd49143f0)
 
-Conteniendo, el resultado de whoami y el comando necesario para saber quién está conectado a la máquina mediante ssh Who, dentro:
+Conteniendo, el resultado de whoami y el comando necesario para saber quién está conectado a la máquina mediante ssh (Who), dentro:
 
 ![RamonVinualesTxt](https://github.com/user-attachments/assets/ad76f39a-614f-4310-bac7-bb5d819afb78)
 
