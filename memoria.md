@@ -2,9 +2,13 @@
 
 ## Indice
 [Introduccion](#introduccion)
+
 [Resumen](#resumen)
+
 [Realizacion de las actividades](#realización-de-las-actividades)
+
 [Valoración de los resultados](#valoración-de-los-resultados)
+
 [Conclusión](#conclusion)
 
 
