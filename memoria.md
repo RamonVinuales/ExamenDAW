@@ -2,6 +2,7 @@
 # Ejercicio 1
 
 He realizado el examen tipo test:
+![ExamenDAW](https://github.com/user-attachments/assets/9ed87783-7b77-442c-8cf3-589fbf020023)
 
 
 ## Ejercicio 2
