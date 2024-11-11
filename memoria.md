@@ -1,4 +1,8 @@
 # Memoria de examen DAW
+# Ejercicio 1
+
+He realizado el examen tipo test:
+
 
 ## Ejercicio 2
 
@@ -33,3 +37,5 @@ Posteriormente le hare un a2ensite al nuevo conf para que funcione correctamente
 
 Finalmente modificare /etc/hosts para añadir el nuevo dominio a la lista (Es el numero 5, "127.0.0.1 daw.ejercicio3.com"):
 ![hosts](https://github.com/user-attachments/assets/9c73ad6a-c3e6-4194-8b82-c32da54a31b7)
+
+Por ultimo se lo he enseñado al profesor y me ha dado el visto bueno.
