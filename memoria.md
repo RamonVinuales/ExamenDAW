@@ -3,7 +3,7 @@
 ## Indice
 [Introduccion](#introduccion)
 [Resumen](#resumen)
-[Realizacion de las actividades](#realizacion_de_las_actividades)
+[Realizacion de las actividades](#realización-de-las-actividades)
 [Valoracion de los resultados](#valoracion-de-los-resultados)
 [Conclusión](#conclusion)
 
