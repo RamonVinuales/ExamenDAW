@@ -71,5 +71,5 @@ He conseguido realizar correctamente el examen tal y como se pedia en el enuncia
 
 ## Conclusion
 
-Tras realizar el examen y ver que las cosas que pedia el enunciado me han salido correctamente puedo suponer que sacare buena nota en este examen
+Tras realizar el examen y ver que las cosas que pedia el enunciado me han salido correctamente puedo suponer que sacaré buena nota en este examen
 
