@@ -26,6 +26,7 @@ Primero creo una pagina web sencilla en la ubicacion /var/www/miWeb de mi maquin
 ![indexHtml](https://github.com/user-attachments/assets/f5b216b3-6259-4745-894d-e18db3dbcb53)
 
 Posteriormente creare un host virtual para poder llegar a esa pagina,copiando 000-default.conf y llamandola examenDaw.conf:
+
 ![cp](https://github.com/user-attachments/assets/8f4220a8-8e15-42ef-992a-15cb565b5b29)
 
 Modificare esta examenDaw.conf para que funcione correctamente:
