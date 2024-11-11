@@ -17,6 +17,8 @@ Posteriormente he creado en el escritorio un archivo txt con mi nombre y apellid
 
 Conteniendo, el resultado de whoami y el comando necesario para saber quién está conectado a la máquina mediante ssh (Who), dentro:
 
+El Who lo introduzco me diante el comando (tee -a RamonVinuales.txt) 
+
 ![RamonVinualesTxt](https://github.com/user-attachments/assets/ad76f39a-614f-4310-bac7-bb5d819afb78)
 
 ## Ejercicio 3
