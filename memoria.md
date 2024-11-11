@@ -4,7 +4,7 @@
 [Introduccion](#introduccion)
 [Resumen](#resumen)
 [Realizacion de las actividades](#realización-de-las-actividades)
-[Valoracion de los resultados](#valoracion-de-los-resultados)
+[Valoración de los resultados](#valoración-de-los-resultados)
 [Conclusión](#conclusion)
 
 
